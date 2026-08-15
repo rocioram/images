@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en" class="home" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" itemscope
+itemtype="http://schema.org/Article">
+<base href="/">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MWR2C29');</script>
+<!-- End Google Tag Manager -->
+<title>Tubular</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta charset="utf-8">
+<meta http-equiv="cache-control" content="no-cache" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+<meta name="fragment" content="!">
+<meta name="description" content=" ">
+<!-- SCHEMA MARKUP for GOOGLE+ -->
+<meta itemprop="name" content=" ">
+<meta itemprop="headline" content=" ">
+<meta itemprop="description" content=" ">
+<meta itemprop="image" content=" ">
+<meta itemprop="publisher" content="https://plus.google.com/+tubularlabs">
+<meta itemprop="author" content="https://plus.google.com/+tubularlabs">
+<link rel="publisher" href="https://plus.google.com/+tubularlabs">
+<!-- END SCHEMA MARKUP for GOOGLE+ -->
+<!-- FACEBOOK OPEN GRAPH -->
+<meta property="og:title" content=" ">
+<meta property="og:type" content="article">
+<meta property="og:url" content=" ">
+<meta property="og:image" content=" ">
+<meta property="og:image:secure_url" content=" ">
+<meta property="og:description" content=" " />
+<meta property="og:site_name" content="Tubular Labs" />
+<meta property="article:publisher" content="https://www.facebook.com/tubularlabs" />
+<meta property="article:section" content="Tubular Creator Profiles" />
+<!-- creator names and platforms -->
+<meta property="article:tag" content=" " />
+<meta property="article:tag" content=" " />
+<meta property="article:tag" content=" " />
+<meta property="article:tag" content=" " />
+<meta property="article:tag" content=" " />
+<meta property="article:tag" content=" " />
+<meta property="article:tag" content=" " />
+<meta property="article:tag" content=" " />
+<meta property="article:tag" content=" " />
+<meta property="article:tag" content=" " />
+<meta property="article:tag" content=" " />
+<meta property="article:tag" content=" " />
+<meta property="article:tag" content=" " />
+<meta property="article:tag" content=" " />
+<meta property="article:tag" content=" " />
+<meta property="article:tag" content=" " />
+<meta property="article:tag" content=" " />
+<meta property="article:tag" content=" " />
+<meta property="article:tag" content="Tubular" />
+<meta property="article:tag" content="Social" />
+<meta property="article:tag" content="Video" />
+<meta property="fb:admins" content="1177363116" />
+<!-- END FACEBOOK OPEN GRAPH -->
+<meta name="facebook-domain-verification" content="jm978r5t4ndd36z8uw662oh3ysdld2" />
+<!-- TWITTER CARDS -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@TubularLabs">
+<meta name="twitter:domain" content="tubularlabs.com">
+<meta name="twitter:text:title" content=" ">
+<meta name="twitter:description" content=" ">
+<meta name="twitter:creator" content=" ">
+<meta name="twitter:image" content=" ">
+<!-- END TWITTER CARDS -->
+<!-- RECAPTCHA SUPPORT -->
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<!-- Osano Tag -->
+<script src="https://cmp.osano.com/16Bj1gTDOOMQ83lXg/eecea65f-8a86-4a6a-87ee-fae16582c809/osano.js"></script>
+<!-- End Osano Tag -->
+<!-- Google SSO -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+<script src="https://accounts.google.com/gsi/client" defer></script>
+<link
+href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.3/css/flag-icon.min.css"
+rel="stylesheet"
+/>
+<link rel="icon" type="image/png" href="/static/public/favicon.ico">
+<!-- ng-elements styles, scoped to .tbjs by tbjs/tools/ng-elements/scopify.js -->
+<link rel="stylesheet" href="/static/public/ng-elements/ng-elements.css">
+<style>
+@font-face {
+font-family: 'faricy-new';
+src: url(/static/public/fonts/FaricyNew-Rg.otf),
+url(/static/public/fonts/FaricyNew-Rg.woff);
+}
+@font-face {
+font-family: 'faricy-new';
+font-weight: 300;
+src: url(/static/public/fonts/FaricyNew-Lt.otf),
+url(/static/public/fonts/FaricyNew-Lt.woff);
+}
+@font-face {
+font-family: 'faricy-new';
+font-weight: 500;
+src: url(/static/public/fonts/FaricyNew-Md.otf),
+url(/static/public/fonts/FaricyNew-Md.woff);
+}
+@font-face {
+font-family: 'faricy-new';
+font-weight: 600;
+src: url(/static/public/fonts/FaricyNew-Bd.otf),
+url(/static/public/fonts/FaricyNew-Bd.woff);
+}
+body {
+font-family: faricy-new, "helvetica neue", helvetica, arial sans-serif;
+}
+</style>
+<link href="/static/css/app.css?v=35660b206386c66ae0baaddd76306641" rel="stylesheet"></head>
+<body style="overscroll-behavior:none" ng-class="{'nav-open': $root.showMobileNav}">
+<div class="body">
+<div class="page" ui-view="container">
+<div id="main_content">
+<style>
+body {
+margin: 0;
+}
+#loading {
+position: absolute;
+width: 100%;
+height: 100%;
+z-index: 1000;
+background-color: #fff;
+}
+.ui-spinner-wrap {
+margin-top: 200px;
+text-align: center;
+padding: 30px 0; }
+.ui-spinner {
+position: relative;
+border-radius: 100%;
+display: inline-block;
+width: 50px;
+height: 50px;
+background: #d7d7d7; }
+.ui-spinner:after {
+content: "";
+background: #f5f5f5;
+position: absolute;
+top: 50%;
+left: 50%;
+width: 40px;
+height: 40px;
+border-radius: 50%;
+margin-top: -20px;
+margin-left: -20px;
+display: block; }
+.ui-spinner .side {
+width: 50%;
+height: 100%;
+overflow: hidden;
+position: absolute; }
+.ui-spinner .side .fill {
+border-radius: 999px;
+position: absolute;
+width: 100%;
+height: 100%;
+-webkit-animation-iteration-count: infinite;
+-moz-animation-iteration-count: infinite;
+animation-iteration-count: infinite;
+-webkit-animation-timing-function: linear;
+-moz-animation-timing-function: linear;
+animation-timing-function: linear;
+background: #00304c;
+background: #f2144b;
+background: #21a1e1;
+-webkit-animation-duration: 2s;
+-moz-animation-duration: 2s;
+animation-duration: 2s;
+opacity: 0.8; }
+.ui-spinner .side-left {
+left: 0; }
+.ui-spinner .side-left .fill {
+left: 100%;
+border-top-left-radius: 0;
+border-bottom-left-radius: 0;
+-webkit-animation-name: ui-spinner-rotate-left;
+-moz-animation-name: ui-spinner-rotate-left;
+animation-name: ui-spinner-rotate-left;
+-webkit-transform-origin: 0 50%;
+-moz-transform-origin: 0 50%;
+-ms-transform-origin: 0 50%;
+-o-transform-origin: 0 50%;
+transform-origin: 0 50%; }
+.ui-spinner .side-right {
+left: 50%; }
+.ui-spinner .side-right .fill {
+left: -100%;
+border-top-right-radius: 0;
+border-bottom-right-radius: 0;
+-webkit-transform-origin: 100% 50%;
+-moz-transform-origin: 100% 50%;
+-ms-transform-origin: 100% 50%;
+-o-transform-origin: 100% 50%;
+transform-origin: 100% 50%;
+-webkit-animation-name: ui-spinner-rotate-right;
+-moz-animation-name: ui-spinner-rotate-right;
+animation-name: ui-spinner-rotate-right; }
+@-webkit-keyframes ui-spinner-rotate-right {
+0% {
+-webkit-transform: rotate(0deg); }
+25% {
+-webkit-transform: rotate(180deg); }
+50% {
+-webkit-transform: rotate(180deg); }
+75% {
+-webkit-transform: rotate(360deg); }
+100% {
+-webkit-transform: rotate(360deg); } }
+@-moz-keyframes ui-spinner-rotate-right {
+0% {
+-moz-transform: rotate(0deg); }
+25% {
+-moz-transform: rotate(180deg); }
+50% {
+-moz-transform: rotate(180deg); }
+75% {
+-moz-transform: rotate(360deg); }
+100% {
+-moz-transform: rotate(360deg); } }
+@-ms-keyframes ui-spinner-rotate-right {
+0% {
+-ms-transform: rotate(0deg); }
+25% {
+-ms-transform: rotate(180deg); }
+50% {
+-ms-transform: rotate(180deg); }
+75% {
+-ms-transform: rotate(360deg); }
+100% {
+-ms-transform: rotate(360deg); } }
+@-o-keyframes ui-spinner-rotate-right {
+0% {
+-o-transform: rotate(0deg); }
+25% {
+-o-transform: rotate(180deg); }
+50% {
+-o-transform: rotate(180deg); }
+75% {
+-o-transform: rotate(360deg); }
+100% {
+-o-transform: rotate(360deg); } }
+@keyframes ui-spinner-rotate-right {
+0% {
+transform: rotate(0deg); }
+25% {
+transform: rotate(180deg); }
+50% {
+transform: rotate(180deg); }
+75% {
+transform: rotate(360deg); }
+100% {
+transform: rotate(360deg); } }
+@-webkit-keyframes ui-spinner-rotate-left {
+0% {
+-webkit-transform: rotate(0deg); }
+25% {
+-webkit-transform: rotate(0deg); }
+50% {
+-webkit-transform: rotate(180deg); }
+75% {
+-webkit-transform: rotate(180deg); }
+100% {
+-webkit-transform: rotate(360deg); } }
+@-moz-keyframes ui-spinner-rotate-left {
+0% {
+-moz-transform: rotate(0deg); }
+25% {
+-moz-transform: rotate(0deg); }
+50% {
+-moz-transform: rotate(180deg); }
+75% {
+-moz-transform: rotate(180deg); }
+100% {
+-moz-transform: rotate(360deg); } }
+@-ms-keyframes ui-spinner-rotate-left {
+0% {
+-ms-transform: rotate(0deg); }
+25% {
+-ms-transform: rotate(0deg); }
+50% {
+-ms-transform: rotate(180deg); }
+75% {
+-ms-transform: rotate(180deg); }
+100% {
+-ms-transform: rotate(360deg); } }
+@-o-keyframes ui-spinner-rotate-left {
+0% {
+-o-transform: rotate(0deg); }
+25% {
+-o-transform: rotate(0deg); }
+50% {
+-o-transform: rotate(180deg); }
+75% {
+-o-transform: rotate(180deg); }
+100% {
+-o-transform: rotate(360deg); } }
+@keyframes ui-spinner-rotate-left {
+0% {
+transform: rotate(0deg); }
+25% {
+transform: rotate(0deg); }
+50% {
+transform: rotate(180deg); }
+75% {
+transform: rotate(180deg); }
+100% {
+transform: rotate(360deg); } }
+</style>
+<div id="loading">
+<div id="stb">
+<div class="ui-spinner-wrap">
+<div class="ui-spinner">
+<span class="side side-left">
+<span class="fill"></span>
+</span>
+<span class="side side-right">
+<span class="fill"></span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer ui-view="footer"></footer>
+</div>
+<!-- Preload data from the server -->
+<script type="text/javascript" src="/api/preload.js"></script>
+<!-- ng-elements: Angular Elements bundle that registers tbjs Web Components
+(e.g. <ai-assistant-panel>) for use inside this legacy app. Built by
+`cd tbjs && yarn build:elements`. -->
+<script type="text/javascript" src="/static/public/ng-elements/ng-elements.js"></script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MWR2C29"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Pendo Tag -->
+<script type="text/javascript">
+if (window.PRELOAD && window.PRELOAD.pendo) {
+(function(apiKey){
+(function(p,e,n,d,o){var v,w,x,y,z;o=p[d]=p[d]||{};o._q=o._q||[];
+v=['initialize','identify','updateOptions','pageLoad','track'];for(w=0,x=v.length;w<x;++w)(function(m){
+o[m]=o[m]||function(){o._q[m===v[0]?'unshift':'push']([m].concat([].slice.call(arguments,0)));};})(v[w]);
+y=e.createElement(n);y.async=!0;y.src='https://content.product.tubularlabs.com/agent/static/'+apiKey+'/pendo.js';
+z=e.getElementsByTagName(n)[0];z.parentNode.insertBefore(y,z);})(window,document,'script','pendo');
+})(window.PRELOAD.pendo);
+}
+</script>
+<!-- End Pendo Tag -->
+<!-- Zendesk Tag -->
+<script type="text/javascript">
+if (window.pendo && window.PRELOAD && window.PRELOAD.zendesk) {
+var t = document.createElement("script");
+t.type = "text/javascript";
+t.async = !0;
+t.setAttribute("id", "ze-snippet");
+t.src = "https://static.zdassets.com/ekr/snippet.js?key=" + window.PRELOAD.zendesk;
+// Zendesk is displayed through Pendo, so ensure standalone Zendesk widget is hidden
+t.addEventListener("load", function() {
+window.zE("webWidget", "hide");
+});
+document.head.appendChild(t);
+}
+</script>
+<!-- End Zendesk Tag -->
+<script type="text/javascript" src="/static/js/app.js?v=9fb56d9ec02f245b96f5"></script></body>
+</html>
